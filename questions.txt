@@ -1,0 +1,1142 @@
+Which german inventor build the first computer?
+Konrad Zuse
+Which company produced the Amiga 500 computer?
+Commodore
+Which one came first: C64 or Amiga 500?
+C64
+Who's the inventor of the World Wide Web?
+Tim Berners-Lee
+Who invented HTML, the Hypertext Markup-Language?
+Tim Berners-Lee
+Who invented HTTP, the HyperText Transfer Protocol?
+Tim Berners-Lee
+Which company is responsible for most of the standards used in the World Wide Web?
+World Wide Web Consortium
+Is multiple inheritance possible in Java?
+no
+Is Java and JavaScript basically the same thing?
+no
+Which company distributes Java?
+Sun
+Which new Microsoft language is leading the .NET strategy of 2002?
+C#
+Microsoft's programming language VBasic is short for ...?
+Visual Basic
+Programming language BASIC is short for ...?
+Beginner's All-Purpose Symbolic Instruction Code
+Programming language C++ had which predecessor?
+C
+How many Bytes are 1 KiloByte?
+1024
+What does HTTP stand for?
+HyperText Transfer Protocol
+What does HTML stand for?
+Hypertext Markup Language
+XHTML is based on which open standard?
+XML
+What's the abbreviation of Extensible Markup Language?
+XML
+What is XML?
+eXtensible Markup Language
+Who invented Linux?
+Linus Torvalds
+Linus Torvalds is most famous for inventing what Operating System?
+Linux
+What's the color of Pac Man?
+yellow
+The Amiga 500 keyboard had wich color?
+gray
+Who produces the Pentium Processors?
+Intel
+Which of these figures is most common in the year 2002: a) 0.1GB HD, b) 10GB HD, c) 1,000GB HD, or d) 10,000GB HD?
+b
+Which hardware component is the most common input device, besides the mouse?
+keyboard
+Which hardware component is the most common input device, besides the keyboard?
+mouse
+Related to web site browsing, TTS stands for what?
+Text-to-Speech
+Who's heading Microsoft?
+Bill Gates
+Computer games "Populous" and "Black ?&? White" were invented by which game designer?
+Peter Molyneux
+Computer acr?onyms: LOL?
+Laughing Out Loud
+Computer acronyms: ROTFL?
+Rolling on the floor laughing
+Computer abbreviations: BRB?
+Be Right Back
+Computer abbreviations: BBL?
+Be Back Later
+Computer abbreviations: AFAIK?
+As Far As I Know
+Computer abbreviations: IIRC?
+If I Remember Correctly
+Computer abbreviations: IMO?
+In My Opinion
+Computer abbreviations: IMHO?
+In My Humble Opinion
+Computer abbreviations: ROTW?
+Rest Of The World
+Computer abbreviations: HTH?
+Hope That Helps
+Computer abbreviations: IRC?
+Internet Relay Chat
+Tim Berners-Lee is most famous for inventing what?
+World Wide Web
+Computer abbreviations: W3C?
+World Wide Web Consortium
+Computer abbreviations: SSL?
+Secure Socket Layer
+What's this byte number in the decimal system: 00000010?
+2
+What's this byte number in the decimal system: 00000011?
+3
+What's this byte number in the decimal system: 00000100?
+4
+What's this hex-number in the decimal system: FF?
+255
+What's bigger, bit or byte?
+byte
+Who visited Xerox PARC and got some ideas for the Apple Macintosh GUI?
+Steve Jobs
+Computer abbreviations: GUI?
+Graphical User Interface
+Computer abbreviations: MDI?
+Multi Document Interface
+Computer abbreviations: API?
+Application Programming Interface
+Computer abbreviations: XML?
+eXtensible Markup Language
+Computer abbreviations: DHTML?
+Dynamic Hypertext Markup Language
+Computer abbreviations: CSS?
+Cascading Style Sheets
+What is the abbreviation for Hypertext Markup Language?
+HTML
+Who invented HTML?
+Tim Berners-Lee
+What does W3C stand for?
+World Wide Web Consortium
+Is HTML4 deprecated?
+No
+On what syntax framework is XHTML based?
+XML
+On what syntax framework is HTML based?
+SGML
+What does element "em" mean?
+emphasis
+What does element "br" mean?
+break
+Which is the lowest heading in HTML?
+h6
+Are XHTML element names case-sensitive?
+yes
+Are HTML element names case-sensitive?
+no
+Can you seperate CSS by media?
+yes
+On which browser engine is Netscape 6 based?
+Mozilla
+Which of these formats should typically not be used in a webpage: GIF, PNG, BMP, JPG?
+BMP
+In Python, what's the command for "else if"?
+elif
+In Python, what's the command for a function?
+def
+In which programming language would the following appear: "#!/usr/bin/python"?
+Python
+In which programming language would the following appear: "from xml.dom.minidom import *"?
+Python
+As of 2002, is there a ternary operator in Python?
+No
+What's the name of Google's 2002 started service in which real persons answer questions for a price?
+Google Answers
+Altavista, Google, and Yahoo are ...?
+search engines
+What was the first computer made?
+ENIAC
+Who wrote Python?
+Guido van Rossum
+What Linux distribution provides the dpkg package management system?
+Debian
+What BSD distribution has claimed only two root holes in the default install in over seven years, yet has recently acquired many more and failed to mention it?
+OpenBSD
+If a pointer in C++ is allocated with new[], what is the corresponding deallocation keyword/function?
+delete[]
+What does msnp stand for?
+microsoft service network protocol
+Computer Abbreviation: DOM?
+Document Object Model
+What is the main board of the computer?
+motherboard
+What is the decimal number 3 represented in binary?
+11
+What does TCP stand for?
+Transmission Control Protocol
+What does IP stand for?
+Internet Protocol
+What is RFC an acronym for?
+Request For Comment
+In the Perl programming language, what type of variable is preceded by a "@" symbol?
+array
+What does HTML stand for?
+HyperText Markup Language
+Who stars as pregnant man in hollywood comedy "Junior"?
+Arnold Schwarzenegger
+What is the capital city of Canada?
+Ottawa
+What are you trying to do here?
+Burning some time
+what was the first horse to win the grand national and in what year?
+lottery 1839
+When is Independence Day in USA? ?a) June 3rd b) July 4th or c) May 2nd?
+b
+Who stars as "Dirty Harry"?
+Clint Eastwood
+Who wrote "Foucault's Pendulum"?
+Umberto Eco
+Who wrote "The Name of the Rose"?
+Umberto Eco
+Who wrote "The Perfume"?
+Patrik Süskind
+Who directed "Once Upon a Time in the West"?
+Sergio Leone
+Who directed "Birds"?
+Alfred Hitchcock
+Last name of american show host, Jay ...?
+Leno
+Last name of american show host, David ...?
+Letterman
+What's 12 times 7?
+84
+What's 5 times 300?
+1500
+What's 10 times 12 plus 4?
+124
+What's 23 plus 48?
+71
+What's 5 times 4 plus 2?
+22
+What's 2 times 14 plus 1?
+29
+What's 120 divided by 5?
+24
+What's the number of days in a week times 4?
+28
+What's 20 times 25?
+500
+What's 2 times 2 plus 222?
+226
+What's 14 times 6?
+84
+What's 4 times 6 plus 7?
+31
+According to "The Meaning of Liff", what's the word for "Descriptive of the pleasing coolness on the reverse side of the pillow"?
+abilene
+According to "The Meaning of Liff", what's the word for "A dispute between two pooves in a boutique"?
+agglethorpe
+According to "The Meaning of Liff", what's the word for "One who collects ten-year-old telephone directories"?
+aldclune
+According to "The Meaning of Liff", what's the word for "Of waiters, never to have a pen"?
+aynho
+According to "The Meaning of Liff", what's the word for "Something which justifies having a really good cry"?
+babworth
+According to "The Meaning of Liff", what's the word for "One of the six half-read books lying somewhere in your bed"?
+ballycumber
+According to "The Meaning of Liff",? what's the word for "That kind of large fierce ugly woman who owns a small fierce ugly dog"?
+baughurst
+According to "The Meaning of Liff", what's the word for "The sort of man who becomes a returning officer"?
+benburb
+According to "The Meaning of Liff", what's the word for "The fake antique plastic seal on a pretentious whisky bottle"?
+brumby
+According to "The Meaning of Liff", what's the word for "A nipple clearly defined through flimsy or wet material"?
+budby
+According to "The Meaning of Liff", what's the word for "People who just won't go"?
+clunes
+According to "The Meaning of Liff", what's the word for "A leg which has gone to sleep and has to be hauled around after you"?
+clun
+According to "The Meaning of Liff", what's the word for "The two little lines which come down from your nose"?
+des moines
+According to "The Meaning of Liff", what's the word for "The most deformed potato in any given collection of potatoes"?
+duddo
+According to "The Meaning of Liff", what's the word for "Mentally incapacitated by a severe hangover"?
+duntish
+According to "The Meaning of Liff", what's the word for "The smile bestowed on you by an air hostess"?
+ewelme
+According to "The Meaning of Liff", what's the "Polite word for buggery"?
+fairymount
+According to "The Meaning of Liff", what's the word for "The safe place you put something and then forget where it was"?
+fiunary
+According to "The Meaning of Liff", what's the word for "The noise made by a light bulb which has just shone its last"?
+fring
+According to "The Meaning of Liff", what's the word for "The puddle on the bar into which the barman puts your change"?
+goole
+According to "The Meaning of Liff", what's the word for "To manoeuvre a double mattress down a winding staircase"?
+harbledown
+According to "The Meaning of Liff", what's the word for "To deny indignantly something which is palpably true"?
+hoff
+According to "The Meaning of Liff", what's the word for "The ancient Eastern art of being able to fold road-maps properly"?
+kalami
+According to "The Meaning of Liff", what's the word for "The horrible smell caused by washing ashtrays"?
+keele
+According to "The Meaning of Liff", what's the word for "A droplet which persists in running out of your nose"?
+longniddry
+According to "The Meaning of Liff", what's the "Celtic word for a computer spelling mistake"?
+maentwrog
+According to "The Meaning of Liff", what's the word for "The secret pocket which eats your train ticket"?
+nantucket
+According to "The Meaning of Liff", what's the word for "The kind of person who has to leave before a party can relax and enjoy itself"?
+nubbock
+According to "The Meaning of Liff", what's the word for "An electrical switch which appears to be off in both positions"?
+ockle
+According to "The Meaning of Liff", what's the word for "To cut oneself whilst licking envelopes"?
+scramoge
+According to "The Meaning of Liff", what's the word for "A slurp of beer which has accidentally gone down your shirt collar"?
+tulsa
+According to "The Meaning of Liff", what's the word for "Standing in the kitchen wondering what you came in here for"?
+woking
+According to "The Meaning of Liff", what's the word for "A 'yes, maybe' which means 'no'"?
+yesnaby
+What was German chancellor Gerhard Schröder's nickname when he played soccer?
+Acker
+Who said "Anyone who has never made a mistake has never tried anything new"?
+Albert Einstein
+Who said "Before God we are all equally wise -- and equally foolish"?
+Albert Einstein
+Who said "Do not worry about your difficulties in Mathematics. I can assure you mine are still greater."?
+Albert Einstein
+Who said "Common sense is the collection of prejudices acquired by age eighteen."?
+Albert Einstein
+Who said "What I have to say is far more important than how long my eyelashes are."?
+Alanis Morissette
+Who said "It may be that our role on this planet is not to worship God, but to create him"?
+Arthur C. Clarke
+Who said "The only way to discover the limits of the possible is to go beyond them into the impossible"?
+Arthur C. Clarke
+Who said "It has yet to be proven that intelligence has any survival value"?
+Arthur C. Clarke
+Who said "Maybe this world is another planet's Hell"?
+Aldous Huxley
+Who said "We participate in a tragedy; at a comedy we only look"?
+Aldous Huxley
+Who said "Drama is life with the dull bits cut out"?
+Alfred Hitchcock
+Who said "I'm not against the police; I'm just afraid of them"?
+Alfred Hitchcock
+Who said "I prefer the wicked rather than the foolish. The wicked sometimes rest"?
+Alexandre Dumas
+Who said "How is it that little children are so intelligent and men so stupid? It must be education that does it."
+Alexandre Dumas
+Who said "The best way to predict the future is to invent it"?
+Alan Kay
+Who said "Airplane travel is nature's way of making you look like your passport photo"?
+Al Gore
+Who said "You can get more with a kind word and a gun than you can with a kind word alone"?
+Al Capone
+Who said "Abstract art: a product of the untalented sold by the unprincipled to the utterly bewildered"?
+Al Capp
+Who said "There are two means of refug?e from the misery of life -- music and cats"?
+Albert Schweitzer
+Who said "Am I not destroying my enemies when I make friends of them?"
+Abraham Lincoln
+Who said "If I were two-faced, would I be wearing this one?"
+Abraham Lincoln
+Who said "Nearly all men can stand adversity, but if you want to test a man's character, give him power"?
+Abraham Lincoln
+Who said "I don't know why I did it, I don't know why I enjoyed it, and I don't know why I'll do it again"?
+Bart Simpson
+Who said "A sweetheart is a bottle of wine, a wife is a wine bottle"?
+Baudelaire
+Who said "Genius without education is like silver in the mine"?
+Ben Franklin
+Who said "The times they are a-changing"?
+Bob Dylan
+Who said "He who laughs last has not yet heard the bad news"?
+Bertold Brecht
+Who said "Neither fire nor wind, birth nor death can erase our good deeds"?
+Buddha
+Who said "Action may not always bring happiness, but there is no happiness without action"?
+Benjamin Disraeli
+Who said "I never deny, I never contradict. I sometimes forget"?
+Benjamin Disraeli
+Who said "Seeing much, suffering much, and studying much, are the three pillars of learning"?
+Benjamin Disraeli
+Who said "Talk to a man about himself and he will listen for hours"?
+Benjamin Disraeli
+Who said "The best way to become acquainted with a subject is to write a book about it"?
+Benjamin Disraeli
+Who said "There are three kinds of lies: Lies, Damn Lies, and Statistics"?
+Benjamin Disraeli
+Who said "What we anticipate seldom occurs; what we least expected generally happens"?
+Benjamin Disraeli
+Who said "Show me a sane man and I will cure him for you"?
+Carl Gustav Jung
+Who said "Everything that irritates us about others can lead us to an understanding of ourselves"?
+Carl Gustav Jung
+Who said "Everyone wants to be Cary Grant. Even I want to be Cary Grant"?
+Cary Grant
+Who said "In the end, everything is a gag"?
+Charlie Chaplin
+Who said "No Sane man will dance"?
+Cicero
+Who said "Any fool can criticize, condemn, and complain -- and most fools do"?
+Dale Carnegie
+Who said "Fine art and pizza delivery: what we do falls neatly in between"?
+David Letterman
+Who said "The really frightening thing about middle age is the knowledge that you'll grow out of it"?
+Doris Day
+Who said "The most wasted of all days is one without laughter"?
+E. E. Cummings
+Who said "The artist is nothing without the gift, but the gift is nothing without work"?
+Emile Zola
+Who said "Once upon a midnight dreary, while I pondered weak and weary..."?
+Edgar Allen Poe
+Who said "A lot has been said about politics; some of it complimentary, but most of it accurate"?
+Eric Idle
+Who said "Never mistake motion for action"?
+Ernest Hemingway
+Who said "The successful revolutionary is a statesman, the unsuccessful one a criminal"?
+Erich Fromm
+Who said "It isn't what they say about you; it's what they whisper"?
+Errol Flynn
+Who said "Talk sense to a fool and he calls you foolish"?
+Euripides
+Who said "Life is something to do when you can't get to sleep"?
+Fran Lebowitz
+Who said "I figure you have the same chance of winning the lottery whether you play or not"?
+Fran Lebowitz
+Who said "Hope is a good breakfast, but it is a bad supper"?
+Francis Bacon
+Who said "A prudent question is one half of wisdom"?
+Francis Bacon
+Who said "The beginning of knowledge is the discovery of something we do not understand"?
+Frank Herbert
+Who said "There is more stupidity than hydrogen in the universe, and it has a longer shelf life"?
+Frank Zappa
+Who said "Evil is whatever distracts"?
+Franz Kafka
+Who said "In the fight between you and the world, back the world"?
+Franz Kafka
+Who said "If you gaze long into an abyss, the abyss will gaze back into you"?
+Friedrich Nietzsche
+Who said "You cannot teach a man anything; you can only help him find it within himself"?
+Galileo Galilei
+Who said " Knowledge is soon changed, then lost in the mist, an echo half-heard"?
+Gene Wolfe
+Who said "Happiness is having a large, loving, caring, close-knit family in another city"?
+George Burns
+Who said "If it weren't for electricity we'd all be watching television by candlelight"?
+George Gobel
+Who said "Who controls the past controls the future. Who controls the present controls the past"?
+George Orwell
+Who said "On the whole human beings want to be good, but not too good and not quite all the time"?
+George Orwell
+Who said "It is not enough to succeed. Others must fail"?
+Gore Vidal
+Who said "A man is only as old as the woman he feels"?
+Groucho Marx
+Who said "Behind every successful man is a woman, behind her is his wife"?
+Groucho Marx
+Who said "I don't care to belong to a club that accepts people like me as members"?
+Groucho Marx
+Who said "A child of five would understand this. Send someone to fetch a child of five"?
+Groucho Marx
+Who said "We will either find a way or make one"?
+Hannibal
+Who said "Every fool knows you can't touch the stars, but it doesn't stop a wise man from trying"?
+Harry Anderson
+Who said "God will forgive me. It's his job"?
+Heinrich Heine
+Who said "Experience is a good school, but the fees are high"?
+Heinrich Heine
+Who said "Keep your face to the sunshine and you cannot see the shadow"?
+Helen Keller
+Who said "Next week there can't be any crisis. My schedule is already full"?
+Henry Kissinger
+Who said "There is nothing permanent except change"?
+Heraclitus
+Who said "Older men declare war. But it is youth that must fight and die"?
+Herbert Hoover
+Who said "About the time we can make ends meet, somebody moves the ends"?
+Herbert Hoover
+Who said "Too many pieces of music finish too long after the end"?
+Igor Stravinsky
+Who said "Science is organized knowledge. Wisdom is organized life"?
+Immanuel Kant
+Who said "You can't shake hands with a clenched fist"?
+Indira Ghandi
+Who said "Life is pleasant. Death is peaceful. It's the transition that's troublesome"?
+Isaac Asimov
+Who said "Never let your sense of morals prevent you from doing what's right"?
+Isaac Asimov
+Who said "Change before you have to"?
+Jack Welch
+Who said "Eighty percent of married men cheat in America. The rest cheat in Europe"?
+Jackie Mason
+Who said "A government is the only known vessel that leaks from the top"?
+James Reston
+Who said "The secret of success is sincerity. Once you can fake that you've got it made"?
+Jean Giraudoux
+Who said "Age does not protect you from love but love to some extent protects you from age"?
+Jeanne Moreau
+Who said "If a man is talking in the forest, and there is no woman there to hear him, is he still wrong?"
+Jenny Weber
+Who said "Everybody wants to go to heaven, but nobody wants to die"?
+Joe Louis
+Who said "Marriage is give and take. You'd better give it to her or she'll take it anyway"?
+Joey Adams
+Who said "A man may die, nations may rise and fall, but an idea lives on"?
+John F. Kennedy
+Who said "Forgive your enemies, but never forget their names"?
+John F. Kennedy
+Who said "An ounce of emotion is equal to a ton of facts"?
+John Junor
+Who said "Marriages are made in heaven and consummated on Earth"?
+John Lilly
+Who said "Time you enjoy wasting, was not wasted"?
+John Lennon
+Who said "Time sneaks up on you like a windshield on a bug"?
+Jon Lithgow
+Who said "Everybody wants to live forever, but nobody wants to grow old"?
+Jonathan Swift
+Who said "Whatever one man is capable of conceiving, other men will be able to achieve"?
+Jules Verne
+Who said "From each according to his abilities, to each according to his needs"?
+Karl Marx
+Who said "Don't be afraid to give up the good for the great"?
+Kenny Rogers
+Who said "Be careful what you pretend to be because you are what you pretend to be"?
+Kurt Vonnegut
+Who wrote "Alice in Wonderland"?
+Lewis Carroll
+Who said "Since Eve ate the apple, much depends on dinner"?
+Lord Byron
+Who said "The limits of my language means the limits of my world"?
+Ludwig Wittgenstein
+Who said "I don't mind living in a man's world as long as I can be a woman in it"?
+Marilyn Monroe
+Who said "A classic is something that everybody wants to have read and nobody wants to read"?
+Mark Twain
+Who said "Go to Heaven for the climate, Hell for the company"?
+Mark Twain
+Who said "Injustice anywhere is a threat to justice everywhere"?
+Martin Luther King
+Who said "Technology is a way of organizing the universe so that man doesn't have to experience it"?
+Max Frisch
+Who said "When you choose the lesser of two evils, always remember that it is still an evil"?
+Max Lerner
+Who said "Lord, grant that I may always desire more than I accomplish"?
+Michelangelo
+Who said "I live on good soup, not on fine words"?
+Moliere
+Who said "Seven days without laughter makes one weak"?
+Mort Walker
+Who said "I love children, especially when they cry, for then someone takes them away"?
+Nancy Mitford
+Who said "If you find yourself in a fair fight, you didn't plan it properly"?
+Nick Lappos
+Who said "The long term is really just a bunch of short terms taped together"?
+Nick Lappos
+Who said "The size of your problem is defined by your efforts to convince yourself that it's not a problem"?
+Nick Lappos
+Who said "Education is the state-controlled manufacture of echoes"?
+Norman Douglas
+Who said "A man can't be too careful in the choice of his enemies"?
+Oscar Wilde
+Who said "Biography lends to death a new terror"?
+Oscar Wilde
+Who said "People never lie so much as after a hunt, during a war or before an election"?
+Otto von Bismarck
+Who said "Don't let it end? like this. Tell them I said something"?
+Pancho Villa
+Who said "If there is a 50-50 chance that something can go wrong, then 9 times out of ten it will"?
+Paul Harvey
+Who said "In times like these, it helps to recall that there have always been times like these"?
+Paul Harvey
+Who said "Parents are the bones upon which children sharpen their teeth"?
+Peter Ustinov
+Who said "Never look at the trombones. You'll only encourage them"?
+Richard Strauss
+Who said "Anyone can be passionate, but it takes real lovers to be silly"?
+Rose Franken
+Who said "Nothing is wrong with California that a rise in the ocean level wouldn't cure"?
+Ross MacDonald
+Who said "Friendship is like money, easier made than kept"?
+Samuel Butler
+Who said "Life is like music; it must be composed by ear, feeling, and instinct, not by rule"?
+Samuel Butler
+Who said "Man is the only animal that laughs and has a state legislature"?
+Samuel Butler
+Who said "The hen is an egg's way of producing another egg"?
+Samuel Butler
+Who said "Sometimes a cigar is just a cigar"?
+Sigmund Freud
+Who said "The great question--which I have not been able to answer--is, 'What does a woman want'"?
+Sigmund Freud
+Who said "When you have eliminated the impossible, whatever remains, however improbable, must be the truth"?
+Sherlock Holmes
+Who said "An honest politician is one who when he is bought will stay bought"?
+Simon Cameron
+Who said "Black holes are where God divided by zero"?
+Steven Wright
+Who said "If a word in the dictionary were misspelled, how would we know?"
+Steven Wright
+Who said "Some editors are failed writers, but so are most writers"?
+T. S. Eliot
+Who said "This is the way the world ends. Not with a bang but a whimper"?
+T. S. Eliot
+Who said "Stupid is as stupid does, sir!"?
+Forrest Gump
+Who said "Life is the flower for which love is the honey"?
+Victor Hugo
+Who said "For most of history, Anonymous was a woman"?
+Virginia Woolf
+Who said "If you do not tell the truth about yourself you cannot tell it about other people"?
+Virginia Woolf
+Who said "One cannot think well, love well, sleep well, if one has not dined well"?
+Virginia Woolf
+Who said "God is a comedian playing to an audience too afraid to laugh"?
+Voltaire
+Who said "If God did not exist, it would be necessary to invent him"?
+Voltaire
+Who said "I often think that the night is more alive and more richly colored than the? day"?
+Vincent van Gogh
+Who said "My loathings are simple: stupidity, oppression, crime, cruelty, soft music"?
+Vladimir Nabokov
+Who said "I love Mickey Mouse more than any woman I have ever known"?
+Walt Disney
+Who said "Basic research is what I'm doing when I don't know what I'm doing"?
+Wernher von Braun
+Who said "What is now proved was once only imagined"?
+William Blake
+Who said "A joke is a very serious thing"?
+Winston Churchill
+Who said "He has all the virtues I dislike and none of the vices I admire"?
+Winston Churchill
+Who said "Eternal nothingness is fine if you happen to be dressed for it"?
+Woody Allen
+Who said "I don't want to achieve immortality through my work... I want to achieve it by not dying"?
+Woody Allen
+Who said "Brevity is the soul of wit"?
+William Shakespeare
+Who said "A man in love is incomplete until he is married. Then he's finished"?
+Zsa Zsa Gabor
+Who said "Husbands are like fires. They go out if unattended"?
+Zsa Zsa Gabor
+Who said "I never hated a man enough to give him his diamonds back"?
+Zsa Zsa Gabor
+Which president was taller: Ronald Reagan or Abraham Lincoln?
+Abraham Lincoln
+Which president was taller: George Washington or Theodore Roosevelt?
+George Washington
+Which president was taller: Harry S. Truman or Dwight David Eisenhower?
+Dwight David Eisenhower
+The flag of witch country is white, green, red?
+Bulgaria
+What is the father of Paulie Jr. in the show "Amercian Chopper"?
+Paul Senior
+Who stars as Joe Dirt in the movie Joe Dirt?
+David Spade
+Who stars as Tony in Stayin Alive?
+John Travolta
+who plays as "anna" in the 2003 movie "Fraeky Friday"?
+lindsey lohan
+What is 8 + 7 x 2?
+30
+What is the reason that ashley olsen went in to rehab as of 2004?
+Aneroxia eating disorder
+Who starts in Orgazmo as Orgazmo?
+Trey Parker
+Wh played Sam ( The Piano Player ) in the movie " Casablanca "?
+Doolie Wilson
+What is the thread with the most replies on Zgeek.com?
+i confess
+The nursery rhyme "Twinkle Twinkle little star" has exactly the same tune as what other nursery rhyme?
+Baa Baa Black Sheep
+whats the tallest building in south africa?
+carlton centre
+whos the president of south africa?
+ms du preez
+We're 5 Little Letters Of A Sort,? ?You'll Find Us All In A Tennis Court?
+Vowels
+Who was US President from 1789-1797?
+George Washington
+Who was US President from 1797-1801?
+John Adams
+Who was US President from 1801-1809?
+Thomas Jefferson
+Who was US President from 1809-1817?
+James Madison
+Who was US President from 1817-1825?
+James Monroe
+Who was US President from 1825-1829?
+John Quincy Adams
+Who was US President from 1829-1837?
+Andrew Jackson
+Who was US President from 1837-1841?
+Martin van Buren
+Who was US President from 1841-1841?
+William Henry Harrison
+Who was US President from 1841-1845?
+John Tyler
+Who was US President from 1845-1849?
+James K. Polk
+Who was US President from 1849-1850?
+Zachary Taylor
+Who was US President from 1850-1853?
+Millard Fillmore
+Who was US President from 1853-1857?
+Franklin Pierce
+Who was US President from 1857-1861?
+James Buchanan
+Who was US President from 1861-1865?
+Abraham Lincoln
+Who was US President from 1865-1869?
+Andrew Johnson
+Who was US President from 1869-1877?
+Ulysses S. Grant
+Who was US President from 1877-1881?
+Rutherford B. Hayes
+Who was US President from 1881-1881?
+James A. Garfield
+Who was US President from 1881-1885?
+Chester A. Arthur
+Who was US President from 1885-1889?
+Grover Cleveland
+Who was US President from 1889-1893?
+Benjamin Harrison
+Who was US President from 1893-1897?
+Grover Cleveland
+Who was US President from 1897-1901?
+William McKinley
+Who was US President from 1901-1909?
+Theodore Roosevelt
+Who was US President from 1909-1?913?
+William H. Taft
+Who was US President from 1913-1921?
+Woodrow Wilson
+Who was US President from 1921-1923?
+Warren G. Harding
+Who was US President from 1923-1929?
+Calvin Coolidge
+Who was US President from 1929-1933?
+Herbert C. Hoover
+Who was US President from 1933-1945?
+Franklin D. Roosevelt
+Who was US President from 1945-1953?
+Harry S. Truman
+Who was US President from 1953-1961?
+Dwight D. Eisenhower
+Who was US President from 1961-1963?
+John F. Kennedy
+Who was US President from 1963-1969?
+Lyndon B. Johnson
+Who was US President from 1969-1974?
+Richard M. Nixon
+Who was US President from 1974-1977?
+Gerald Ford
+Who was US President from 1977-1981?
+Jimmy Carter
+Who was US President from 1981-1989?
+Ronald Reagan
+Who was US President from 1989-1993?
+George Bush
+Who was US President from 1993-2001?
+Bill Clinton
+Bill Clinton was born in which US state?
+Arkansas
+Richard Nixon was born in which US state?
+California
+Jimmy Carter was born in which US state?
+Georgia
+Ronald Reagan was born in which US state?
+Illinois
+Herbert Hoover was born in which US state?
+Iowa
+Abraham Lincoln was born in which US state?
+Kentucky
+John Adams was born in which US state?
+Massachusetts
+John F. Kennedy was born in which US state?
+Massachusetts
+John Quincy Adams was born in which US state?
+Massachusetts
+George Bush was born in which US state?
+Massachusetts
+Harry S Truman was born in which US state?
+Missouri
+Gerald Ford was born in which US state?
+Nebraska
+Franklin Pierce was born in which US state?
+New Hampshire
+Grover Cleveland was born in which US state?
+New Jersey
+Franklin D. Roosevelt was born in which US state?
+New York
+Theodore Roosevelt was born in which US state?
+New York
+Martin Van Buren was born in which US state?
+New York
+Andrew Johnson was born in which US state?
+North Carolina
+James K. Polk was born in which US state?
+North Carolina
+James Garfield was born in which US state?
+Ohio
+Ulysses S. Grant was born in which US state?
+Ohio
+Warren G. Harding was born in which US state?
+Ohio
+Benjamin Harrison was born in which US state?
+Ohio
+Rutherford B. Hayes was born in which US state?
+Ohio
+William McKinley was born in which US state?
+Ohio
+William H. Taft was born in which US state?
+Ohio
+James Buchanan was born in which US state?
+Pennsylvania
+Andrew Jackson was born in which US state?
+South Carolina
+Dwight D. Eisenhower was born in which US state?
+Texas
+Lyndon B. Johnson was born in which US state?
+Texas
+Chester Arthur was born in which US state?
+Vermont
+Calvin Coolidge was born in which US state?
+Vermont
+Kyle was born in which US state?
+california
+William H. Harrison was born in which US state?
+Virginia
+Thomas Jefferson was born in which US state?
+Virginia
+James Madison was born in which US state?
+Virginia
+James Monroe was born in which US state?
+Virginia
+Zachary Taylor was born in which US state?
+Virginia
+John Tyler was born in which US state?
+Virginia
+George Washington was born in which US state?
+Virginia
+Woodrow Wilson was born in which US state?
+Virginia
+Which US President was assassinated in November 22, 1963?
+John F. Kennedy
+Which US President was assassinated in July 2, 1881?
+James Garfield
+Which US President was assassinated in April 14, 1865?
+Abraham Lincoln
+Which US President was assassinated in September 6, 1901?
+William McKinley
+Which US President escaped an assassination attempt in March 30, 1981?
+Ronald Reagan
+Which US President escaped an assassination attempt in November 1, 1950?
+Harry S. Truman
+How old was Bill Clinton when he became US President?
+46
+How old was Franklin D. Roosevelt when he became US President?
+51
+How old was Jimmy Carter when he became US President?
+52
+How old was Benjamin Harrison when he became US President?
+55
+How old was George Washington when he became US President?
+57
+How old was Dwight D. Eisenhower when he became US President?
+62
+How old was George Bush when he became US President?
+64
+How old was Ronald Reagan when he became US President?
+69
+How old was Herbert Hoover when he became US President?
+54
+How old was John F. Kennedy when he became US President?
+43
+Who invented the formula E=mc2?
+Albert Einstein
+Who invented the Relativity Theory?
+Albert Einstein
+What is 12*9?
+108
+Which planet is named after the Roman goddess of love.?
+Venus
+What do you call the point in a lunar orbit that is farthest from the moon?
+Apolune
+Geologists study the Earth.? ?What do selenologists study?
+The Moon
+What do you call the reflecting power of a planet or satellite, expressed as a ratio of reflected light to the total amount falling on the surface?
+Albedo
+Where is the "Sea of Tranquility" located?
+Moon
+What's the smallest planet in our solar system?
+Pluto
+What's the studies of UFOs called?
+Ufology
+What was the first spacecraft to photograph Mars?
+Mariner 4
+A group of what animal can also be called a draught?
+Fish
+What's the name of animals that eat insects?
+Insectivores
+Invertebrates are animals that don’t have a ...?
+backbone
+What lived on Earth for around 165 million years before it became extinct?
+Dinosaurs
+How many hours does it take for a newborn swan to peck its way out of its shell?
+24
+What's a baby bat called?
+Pup
+Who invented the dumbwaiter?
+Thomas Jefferson
+What is the fear of washing or bathing called?
+ablutophobia
+What is the fear of itching called?
+acarophobia
+What is the fear of darkness called?
+achluophobia
+What is the fear of noise called?
+acousticophobia
+What is the fear of heights called?
+acrophobia
+What is the fear of flying called?
+aeruophobia
+What is the fear of pain called?
+agliophobia
+What is the fear of people called?
+anthrophobia
+What is the fear of spiders called?
+arachnophobia
+What is the fear of fire called?
+arsonphobia
+What is the fear of thunder called?
+ceraunophobia
+What is the fear of dentists called?
+dentophobia
+What is the fear of cats called?
+felinophobia
+What is the fear of water called?
+hydrophobia
+What is the fear of death called?
+necrophobia
+What is the fear of birds called?
+ornithophobia
+What is the fear of one's own fears called?
+phobophobia
+What is the fear of poison called?
+toxiphobia
+What is the fear of animals called?
+zoophobia
+What do you call a group of antelopes?
+herd
+What do you call a group of ants?
+colony
+What do you call a group of bees?
+swarm
+What do you call a group of chicken?
+brood
+What do you call a group of cobra?
+quiver
+What do you call a group of coyotes?
+band
+What do you call a group of dogs?
+pack
+What do you call a group of emus?
+mob
+What do you call a group of locusts?
+plague
+What do you call a group of monkeys?
+troop
+What do you call a group of rabbits?
+nest
+What do you call a group of sheep?
+flock
+What do you call a group of wolves?
+pack
+What do you call a young bear?
+cub
+What do you call a young cat?
+kitten
+What do you call a young cow?
+calf
+What do you call a young dog?
+puppy
+What do you call a young duck?
+duckling
+What do you call a young fish?
+fry
+What do you call a young fox?
+cub
+What do you call a young goat?
+kid
+What do you call a young goose?
+gosling
+What do you call a young lion?
+cub
+What do you call a young rabbit?
+bunny
+What do you call a young zebra?
+foal
+What's the trademark name for solid carbon dioxide?
+Dry Ice
+Who invented the zipper?
+Whitcomb L. Judson
+Which curved spectrum of light appears when both the elements of sunshine and rainfall present?
+rainbow
+Which light does the moon reflect, making it shine?
+sun[
+'
+s]
+What is 13 times 13?
+169
+What is 12 times 9?
+108
+What is 150 divided by 3 plus 12?
+62
+What is 10 times 10 plus 10 minus 100?
+10
+Which famous physician lived from 1879 to 1955?
+Albert Einstein
+Who was the father of biogeography?
+alfred wallace
+What phylum to humans belong to?
+chordata
+What order is the only extant order of the subclass prototheria?
+monotremata
+What is the subclass of amphibia that includes all extant forms today?
+lissamphibia
+What is the genus of our only surviving crossopterygiian fish?
+latimeria
+What is the common name of the legless amphibians of the order apoda?
+caecilians
+The jawbone of all mammals is made up of how many bones?
+one
+"Ontogony recapitulates phylogony" is a statement of what law?
+Haekel's Law
+Species of organisms that are morphologically very similiar,but won't interbreed are said to be what type of species?
+cryptic
+"Sea squirts" belong to what subphylum?
+urochordata
+What fossilized reptile/archaeornithes,toothed?&?feathered creature was found in a Bavarian slate quarry?
+archaeopteryx
+Arachnids have how many legs?
+8
+Ancyclostoma caninum is the scientific name for what common parasite?
+hookworm
+Enterobius vermicularis is the scientific name for this common parasite of people.?
+pinworm
+Diphyllobothrium latum is the scientific name for what common parasite?
+fish tapeworm
+Xenopsylla cheopis is the scientific name for what "bouncy" parasite?
+rat flea
+What is the scientific name of the african eye worm?
+Loa loa
+What type of fly spreads the african sleeping sickness?
+Tsetse fly
+This flagellated protozoan intestinal parasite has caused grief to many travellers of 3rd world countries via contaminated water?
+Giardia
+What is the only "truly" biologically important taxonomic classification?
+species
+If your profession was one of studying snakes,what would your title be?
+herpetologist
+These types of organisms have the strongest musculature of any living thing.?
+arthropods
+All modern day birds belong to class aves;what is their subclass?
+neornithes
+The process of a particular group of organisms genetic change through time is referred to as what?
+anagenesis
+a computer byte is made up of how many bits?
+8
+Canis latrans is the scientific name of what common species?
+coyote
+What is the name of the glands on a beaver,used for terriorial markings?
+castor
+What is one of a striped skunk's few natural predators that is unphased by the noxious spray?
+owl
+What particular gland has been measured to discern classification between mule deer,whitetail deer and their hybrids?
+metatarsal gland
+True or false? Only new world monkeys have prehensile tails
+True
+What type of pupil does a red fox have?
+elliptical pupil
+Temporal fenestra or "holes in the head" are the key features used in classifying what class of chordates?
+reptilia
+The retention of juvenile characteristics in adult descendents defines what scientifically important word?
+paedomorphosis
+Who came up with the theory of particulate inheritance, hence is known as the father of genetics?
+Mendel
+Sciurus niger is the scientific name for what common rodent?
+fox squirrel
+Boophilus annulatus is a species of tick that carried what devasting sickness in texas cattle up until the early 1900's?
+red water fever
+Fasciola hepatica is fluke that can exceed 2 inches in length.this parasite commonly affects people and resides in what organ?
+liver
+"Roundworms" is a common name for this group of organisms.a more proper title would be what?
+Nematodes
+Cimex lectularis is the scientific name for what parasitic pest of people?
+Bedbug
+What genus of mosquito with banded legs is most responsible for transmitting the west nile virus?
+Aedes
+"Sparrow hawk" is a common name for this tiny raptor. Its proper common name is what?
+Kestrel
+True or false? Otters are almost exclusively monogamous and will usually only select a new mate if their partner dies?
+true
+What is a baby owl know as?
+chick
+What is fera of heights called?
+agoraphobia
+Consequences of excessive application of chemical fertilizers?
+It may spoil the plant
+what is the name of a baby skunk?
+straggler ?
+What's the name of the first spacecraft invented.?
+Apollo
+What do you call the fear of eating baked beans?
+Fartphobia
+What is young of the Zebra called?
+Baby Zebra
+What is young one of Cow called?
+Baby Cow
+What do Selenologists study?
+The moon
+What is the point of no return for anything going into a black hole called?
+Event Horizon
+What is the smallest type of blood vessel?
+capillary
+What is the largest artery in the body?
+Aorta
+What chemical carries the oxygen in the blood?
+hemoglobin
+What nerve is involved in Carpal Tunnel?
+Median
+What is the longest bone in the body?
+Femur
+What is the largest organ in the body?
+Skin
+At 66.1 tons, where was the largest meteorite found on Earth?
+Namibia
+An electron has what type of charge?
+negative
+What chemist first used letters as symbols for elements?
+Jons Berzelius
+Can you identify the former IBM scientist who discovered what is regarded by some to be the most beautiful mathematical picture in the world?
+Benoit Mandelbrot
+In what country did Leo Baekeland invent plastic in 1907?
+belgium
+true or false are nematodes the smallest amphibian? ?
+true
+Who discovered the dna molecule was a double helix?
+carl sagan
+It was the age of dinosaurs. during which era of geologic time did dinosaurs dominated the world?
+mesozoic
+what do you call a baby bird?
+chicks
+what do you call young wolf pups?
+pups
+What is the largest animal on earth?
+Blue Whale
